@@ -9,4 +9,5 @@ The impact point of the cue ball and the colored ball was calculated by finding 
 
 ## Results
 I participated in a competition run by Murtaza Hassan's CVZone, the leading education platform in computer vision, and won 3rd place in number of votes.
+
 Competition Entry: https://www.youtube.com/watch?v=LKSdxrvAYCc
