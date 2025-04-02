@@ -1,7 +1,7 @@
 <img width="550" alt="Screenshot 2024-09-27 at 7 02 36 PM" src="https://github.com/user-attachments/assets/2536375b-bea3-4a21-be91-11296d3f771d">
 
 # Pool Shot Predictor
-This a pool shot detection program that predicts the path and outcome (in or out) of 10 pool shots provided by CVZone. 
+This my pool shot detection program that predicts the path and outcome (in or out) of 10 pool shots provided by CVZone. 
 
 I used two libraries: OpenCV and NumPy. My process started with detecting the cue ball and colored balls using several different Hue/Saturation/Value (HSV) filters and contour detection. Only contours with a certain area and inside a certain boundary were marked as important. The location of the pockets and walls was marked with their coordinates. It was difficult to detect green balls, since they are the same color of the field and the shadows. Also, the positions of the pockets and walls shifted slightly after each shot, causing inaccuracies with the predictions. For these two issues, parameters were adjusted in order to achieve accurate results. 
 
