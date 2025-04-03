@@ -1,7 +1,7 @@
 #Author: Rhushil Vasavada
 #Pool Shot Prediction
 #Description: This computer vision algorithm won 3rd place in votes in Murtaza Hassan's CVZone competition 
-#View entry here: https://www.computervision.zone/pool-shot-predictor/?contest=video-detail&video_id=104532
+#View entry here: https://www.youtube.com/watch?v=LKSdxrvAYCc
 #Used OpenCV, HSV filtering, contour detection, and linear algebra to predict and trace the path of 10 pool shots 
 #fed via video footage.
 
