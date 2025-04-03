@@ -1,5 +1,5 @@
 <img width="550" alt="Pool Shot Demo Image 1" src="https://github.com/user-attachments/assets/2536375b-bea3-4a21-be91-11296d3f771d">
-<img width="550" alt="Pool Shot Demo Image 2" src"https://github.com/user-attachments/assets/6c8286f9-9279-4576-bcc5-d1477b63e49f">
+<img width="550" alt="Pool Shot Demo Image 2" src="https://github.com/user-attachments/assets/6c8286f9-9279-4576-bcc5-d1477b63e49f">
 # Pool Shot Prediction
 
 This my pool shot prediction program that predicts the path and outcome (in or out) of 10 pool shots provided by CVZone. 
