@@ -12,4 +12,5 @@ The impact point of the cue ball and the colored ball was calculated by finding 
 
 ## Results
 Won 3rd place in votes for competition entry to Murtaza Hassan’s CVZone, the most popular computer vision education platform in the world.
+
 Competition Entry: https://www.youtube.com/watch?v=LKSdxrvAYCc
