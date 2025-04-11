@@ -2,8 +2,8 @@
 # Pool Shot Prediction
 # Description: This computer vision algorithm won 3rd place in votes in Murtaza Hassan's 
 # CVZone competition. View entry here: https://www.youtube.com/watch?v=LKSdxrvAYCc
-# Used OpenCV, HSV filtering, contour detection, and linear algebra to predict and trace t
-# he path of 10 pool shots fed via video footage.
+# Used OpenCV, HSV filtering, contour detection, and linear algebra to predict and trace 
+# the path of 10 pool shots fed via video footage.
 
 import numpy as np
 import cv2
