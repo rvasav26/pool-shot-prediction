@@ -1,5 +1,5 @@
 <p align="left">
-<!--<img width="600" alt="Pool Shot Demo Image 1" src="https://github.com/user-attachments/assets/2536375b-bea3-4a21-be91-11296d3f771d">
+<img width="600" alt="Pool Shot Demo Image 1" src="https://github.com/user-attachments/assets/2536375b-bea3-4a21-be91-11296d3f771d">
 </p>
 
 # Pool Shot Prediction
